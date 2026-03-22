@@ -1,8 +1,6 @@
-# Awesome Interpretable Neural Networks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Neural Network Interpretability [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A comprehensive collection of research papers, tools, and resources on **Neural Network Interpretability** — covering self-interpretable architectures, mechanistic interpretability, representation analysis, causal methods, safety applications, and more.
-
-This list builds upon and extends the excellent [Awesome-Self-Interpretable-Neural-Network](https://github.com/yangji721/Awesome-Self-Interpretable-Neural-Network) by Yang et al.
 
 Last updated: **March 2026**
 
